@@ -24,6 +24,6 @@ def switch_on(gpio):
     return True
 
 @app.route('/off/<int:gpio>')
-def switch_on(gpio):
+def switch_off(gpio):
     GPIO.output(gpio,GPIO.HIGH)
     return True
