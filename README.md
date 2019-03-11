@@ -16,5 +16,5 @@ and for other devices connect in same network and type rpi board ip for ex(192.1
 
 
 
-# note for active low circuit GPIO.LOW is on state and GPIO.HIGH is off state 
-# for active high circuit GPIO.HIGH is on state and GPIO.LOW is off state  for more details refer wikipedia/active low circuit
+#note for active low circuit GPIO.LOW is on state and GPIO.HIGH is off state 
+#for active high circuit GPIO.HIGH is on state and GPIO.LOW is off state  for more details refer wikipedia/active low circuit
